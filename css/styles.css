@@ -6,3 +6,14 @@ p {
   margin-top: 30px;
   margin-bottom: 30px;
 }
+
+.package {
+  padding: 20px;
+}
+
+#hawaii {
+  background: url(../img/hawaii.jpeg);
+  height: 200px;
+  background-size: 100% 200px;
+  background-repeat: no-repeat;
+}
