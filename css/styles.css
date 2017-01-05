@@ -9,11 +9,45 @@ p {
 
 .package {
   padding: 20px;
+  font-size: 20px;
 }
 
 #hawaii {
-  background: url(../img/hawaii.jpeg);
+  background: url(../img/hawaii.jpg);
   height: 200px;
   background-size: 100% 200px;
   background-repeat: no-repeat;
+  border-radius: 20px;
+}
+
+.tour {
+  height: 200px;
+  border-radius: 50%;
+  float: right;
+}
+
+h1, h2, h3, p, li {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+.jumbotron h1 {
+  font-size: 90px;
+  color: #fcf9c2;
+}
+
+h2.panel-title {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 60px;
+}
+
+.jumbotron {
+  background-color: #66aaff;
 }
